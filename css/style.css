@@ -1,6 +1,9 @@
 body{
 	font-family: Arial;
-	background:#e6eecc url(../img/beige_paper.png) repeat top left;
+	/*background:#e6eecc url(../img/beige_paper.png) repeat top left;*/
+}
+h4{
+	color:#004c94;
 }
 #topo{
 

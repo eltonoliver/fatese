@@ -266,6 +266,7 @@ a:focus {
 .row {
   margin-left: -20px;
   *zoom: 1;
+  
 }
 
 .row:before,
@@ -294,6 +295,7 @@ a:focus {
 
 .span12 {
   width: 940px;
+
 }
 
 .span11 {
