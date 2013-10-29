@@ -1,0 +1,53 @@
+body{
+	font-family: Arial;
+	background:#e6eecc url(../img/beige_paper.png) repeat top left;
+}
+#topo{
+
+	background-image: url("../img/topo2.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-color: #FFFFFF;
+	padding-bottom: 100px;
+}
+#menu{
+
+	list-style: none;
+	
+	
+
+
+
+}#menu li{
+
+	font-weight: bold;
+	float: left;
+	margin-left: 13px;
+	padding-left: 10px;
+	font-family: Arial;
+	font-size: 16px;	
+	padding: 30px 30px 30px 30px;
+
+	
+
+}#menu li:hover{
+	background-color: #ffc380;
+
+}#menu li a{
+	color: white;
+	text-decoration: none;
+}
+.menu-circulo{
+	margin-left: 100px;
+	margin-bottom: 50px;
+
+}
+#menu-footer{
+
+	color: white;
+	list-style: none;
+}#menu-footer li{
+
+	font-size: 12px;
+}
+
