@@ -42,35 +42,36 @@
 		<div class="span12" style="background-color: #f9ac4a;">
 			
 			<ul id="menu" >
-				<li><a href="?pg=home"> Início </a> </li>
-				<li><a href="?pg=institucional"> Institucional </a> </li>
-				<li><a href="?pg=graduacao"> Graduação </a></li>
-				<li><a href="http://www.ead.senac.br" target="blank"> Pós Graduação EAD </a></li>
-				<li><a href="?pg=biblioteca"> Bíblioteca </a></li>
-				<li><a href="?pg=faleconosco"> Fale Conosco </a></li>
-				<li><a href=""> Links </a></li>
+				<a href="?pg=home"> <li>Início  </a></li>
+				<a href="?pg=institucional"><li> Institucional </li></a> 
+				<a href="?pg=graduacao"><li> Graduação </li></a>
+				<a href="http://www.ead.senac.br" target="blank"><li> Pós Graduação EAD </li></a>
+				<a href="?pg=biblioteca"> <li>Bíblioteca </li></a>
+				<a href="?pg=faleconosco"> <li>Fale Conosco </li></a>
+				<a href=""><li> Links </li></a>
 			</ul>
 		</div>
 	</div>
 	<?php 
 
-		
-		$pg = $_GET['pg'];
+		@$pg = $_GET['pg'];
 
-		switch ($pg) {
-			case $pg == 'institucional' : include 'includes/institucional.php';	
-				break ;
-			case $pg == 'home' : include 'includes/home.php';
-				break;
-			case $pg == 'graduacao' : include 'includes/graduacao.php';	 
-				break;
-			case $pg == 'biblioteca' : include 'includes/biblioteca.php';	 
-				break;	
-			case $pg == 'faleconosco' : include 'includes/faleconosco.php';	 
-				break;				
-			default: include 'includes/home.php';
-				break;
-		}
+
+
+		if($pg == 'institucional'){ 
+			include 'includes/institucional.php';
+		}elseif($pg == 'home'){
+			include 'includes/home.php';
+		}elseif($pg == 'graduacao'){
+			include 'includes/graduacao.php';
+		}elseif($pg == 'biblioteca'){
+			include 'includes/biblioteca.php';
+		}elseif($pg == 'faleconosco'){
+			include 'includes/faleconosco.php';
+
+		}else{
+			include 'includes/home.php';
+		}	
 
 
 	?>
@@ -81,12 +82,12 @@
 				<div class="span4">					
 					<ul id="menu-footer">
 						<li><h5> Institucional </h5>  </li>
-						<li> Fale Conosco   </li>
-						<li> Transparência da Gestão   </li>
-						<li> Departamento Regional   </li>
-						<li> Links Relacionados   </li>
+						<li><a href="?pg=faleconosco"> Fale Conosco </a>  </li>
+						<li><a href="http://www.am.senac.br/virtual/transpReg.php"> Transparência da Gestão </a>  </li>
+						<li><a href="http://www.senac.br/"> Departamento Regional </a>   </li>
+						
 						<li><h5> Programas </h5>  </li>
-						<li> PSG  </li>
+						<li><a href="http://www.am.senac.br/psg/">PSG </a></li>
 						<li> Pronatec  </li>
 						<li> Aprendizagem Comercial  </li>
 						
@@ -97,10 +98,9 @@
 					<!--COLUNA 4 -->
 					<ul id="menu-footer">
 						<li><h5> Sistemas </h5>  </li>
-						<li> Fecomércio AM   </li>
-						<li> Sesc AM   </li>
-						<li> Senac AM   </li>					
-
+						<li><a href="http://www.fecomercio-am.org.br/"> Fecomércio AM </a> </li>
+						<li><a href="http://www.sesc-am.com.br/">Sesc AM  </a> </li>
+						<li><a href="http://www.am.senac.br/"> Senac AM </a>  </li>
 					</ul>	
 					
 				</div>

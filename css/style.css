@@ -36,7 +36,7 @@ h4{
 }#menu li:hover{
 	background-color: #ffc380;
 
-}#menu li a{
+}#menu a{
 	color: white;
 	text-decoration: none;
 }
@@ -77,4 +77,8 @@ h4{
 #imgcontato{
 
 	float: right;
+}
+#menu-footer a{
+
+	color: white;
 }

@@ -143,10 +143,10 @@
 							            </ul>
 							            <div id="myTabContent" class="tab-content">
 							              <div class="tab-pane fade in active" id="facebook">
-							                <img src="img/facebook.png" alt="">
+							                <img src="img/pessoas.png" alt="">
 							              </div>
 							              <div class="tab-pane fade" id="twitter">
-							                 <img src="img/facebook.png" alt="">
+							                 <img src="img/pessoas.png" alt="">
 							              </div>
 							      
 							           
