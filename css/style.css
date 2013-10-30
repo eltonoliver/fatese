@@ -41,8 +41,11 @@ h4{
 	text-decoration: none;
 }
 .menu-circulo{
-	margin-left: 100px;
+	
 	margin-bottom: 50px;
+	position: absolute;
+	padding-top: 280px;
+
 
 }
 #menu-footer{
@@ -62,4 +65,8 @@ h4{
 	font-weight: bold;
 	font-size: 25px;
 	margin-top: 40px;
+}
+.redesocial{
+
+	padding-bottom: 150px;
 }
