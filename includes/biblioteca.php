@@ -1,84 +1,80 @@
 <div class="container">
 	<div class="row">
+		<br />
 		<div class="span12">
 			<ul class="breadcrumb">
 				<li>
-					<a href="#">Home</a> <span class="divider">/</span>
+					<a href="?pg=home">Início</a> <span class="divider">/</span>
 				</li>
 				<li>
-					<a href="#">Library</a> <span class="divider">/</span>
+					<a href="?pg=biblioteca">Bibioteca</a> <span class="divider">/</span>
 				</li>
-				<li class="active">
-					Data
-				</li>
+				
 			</ul>
 		</div>
 	</div>
+	<br />
 	<div class="row">
 		<div class="span12">
-			<h2>
-				Heading
-			</h2>
+			<h4>
+				Biblioteca
+			</h4>
 			<p>
-				Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+				A Biblioteca da Faculdade de Tecnologia Senac Amazonas é uma unidade de informação designada para estudo e pesquisa. O acervo é composto por Livros, CDs, DVDs, Periódicos, Monografias e Normas Técnicas para apoio dos cursos de Graduação, Pós-Graduação e Extensão.
+
 			</p>
-			<p>
-				<a class="btn" href="#">View details »</a>
-			</p>
+			<br />
 		</div>
 	</div>
+	<br />
 	<div class="row">
 		<div class="span2">
-			<img alt="140x140" src="http://lorempixel.com/140/140/" />
+			<img alt="140x140" src="img/lab1.png" class="img-rounded"/>
 		</div>
 		<div class="span6">
-			<h2>
-				Heading
-			</h2>
+			
 			<p>
-				Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+				Os usuários têm livre acesso aos terminais de consulta e as bases de dados eletrônicos. O acervo é atualizado e especializado para os cursos.
+
 			</p>
-			<p>
-				<a class="btn" href="#">View details »</a>
-			</p>
+			
 		</div>
 		<div class="span4">
 		</div>
 	</div>
+	<br /><br />
 	<div class="row">
 		<div class="span2">
-			<img alt="140x140" src="http://lorempixel.com/140/140/" />
+			<img alt="140x140" src="img/lab2.png" class="img-rounded"/>
 		</div>
 		<div class="span6">
-			<h2>
-				Heading
-			</h2>
+			
 			<p>
-				Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+				Ambiente para estudo individual.
+
 			</p>
-			<p>
-				<a class="btn" href="#">View details »</a>
-			</p>
+			
 		</div>
+		
 		<div class="span4">
 		</div>
 	</div>
+	<br /> <br />
 	<div class="row">
 		<div class="span2">
-			<img alt="140x140" src="http://lorempixel.com/140/140/" />
+			<img alt="140x140" src="img/lab3.png" class="img-rounded" />
 		</div>
 		<div class="span6">
-			<h2>
-				Heading
-			</h2>
+			
 			<p>
-				Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+				A Biblioteca disponibiliza empréstimo domiciliar, consulta local, reserva de material bibliográfico via web, levantamento bibliográfico e acesso as normas da ABNT.
+
+
 			</p>
-			<p>
-				<a class="btn" href="#">View details »</a>
-			</p>
+			
 		</div>
 		<div class="span4">
 		</div>
 	</div>
 </div>
+<br /> <br />

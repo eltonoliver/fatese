@@ -12,35 +12,35 @@
 				</ol>
 				<div class="carousel-inner">
 					<div class="item active">
-						<img alt="" src="http://lorempixel.com/1600/500/sports/1">
+						<img alt="" src="http://localhost/fatese/img/banner3.jpg" >
 						<div class="carousel-caption">
 							<h4>
-								First Thumbnail label
+								Técnologo
 							</h4>
 							<p>
-								Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+								O Tecnólogo em Processos Gerenciais aplica conhecimentos administrativos para organizar e gerenciar com eficiência e lucratividade qualquer tipo de empresa ou negócio. 
 							</p>
 						</div>
 					</div>
 					<div class="item">
-						<img alt="" src="http://lorempixel.com/1600/500/sports/2">
+						<img alt="" src="http://localhost/fatese/img/banner1.jpg"  >
 						<div class="carousel-caption">
 							<h4>
-								Second Thumbnail label
+								Logística
 							</h4>
 							<p>
-								Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+								O tecnólogo em Logística pode atuar em empresas transportadoras, automobilísticas, alimentícias e varejistas que precisam otimizar tempo e dinheiro no transporte e estoque de mercadorias e em órgãos públicos ligados ao setor de engenharia de tráfego. 
 							</p>
 						</div>
 					</div>
 					<div class="item">
-						<img alt="" src="http://lorempixel.com/1600/500/sports/3">
+						<img alt="" src="http://localhost/fatese/img/banner2.jpg"  >
 						<div class="carousel-caption">
 							<h4>
-								Third Thumbnail label
+								Cursos de Pós-graduação
 							</h4>
 							<p>
-								Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+								A melhor opção para quem procura novos desafios para crescer profissionalmente, adquirir conhecimento e desenvolver seu potencial. Cursos com foco nas demandas do mercado de trabalho.
 							</p>
 						</div>
 					</div>
@@ -72,7 +72,7 @@
 							<!-- MENU ANIMADO CIRCULO -->
 										 <ul class="ca-menu">
 						                    <li>
-						                        <a href="#">
+						                        <a href="?pg=graduacao">
 						                            <span class="ca-icon" style="color:#fda02a;">L</span>
 						                            <div class="ca-content">
 						                                <h2 class="ca-main">Graduação</h2>
@@ -82,7 +82,7 @@
 						                    </li>
 
 						                    <li>
-						                        <a href="#">
+						                        <a href="http://www.ead.senac.br">
 						                            <span class="ca-icon" style="color:#fda02a;">h</span>
 						                            <div class="ca-content">
 						                                <h2 class="ca-main">Pós Graduação EAD</h2>
@@ -92,7 +92,7 @@
 						                    </li>
 						                  
 						                    <li>
-						                        <a href="#">
+						                        <a href="?pg=faleconosco">
 						                            <span class="ca-icon" style="color:#fda02a;">c</span>
 						                            <div class="ca-content">
 						                                <h2 class="ca-main">Fale Conosco</h2>

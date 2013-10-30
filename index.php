@@ -46,8 +46,8 @@
 				<li><a href="?pg=institucional"> Institucional </a> </li>
 				<li><a href="?pg=graduacao"> Graduação </a></li>
 				<li><a href="http://www.ead.senac.br" target="blank"> Pós Graduação EAD </a></li>
-				<li><a href=""> Bíblioteca </a></li>
-				<li><a href=""> Fale Conosco </a></li>
+				<li><a href="?pg=biblioteca"> Bíblioteca </a></li>
+				<li><a href="?pg=faleconosco"> Fale Conosco </a></li>
 				<li><a href=""> Links </a></li>
 			</ul>
 		</div>
@@ -63,7 +63,11 @@
 			case $pg == 'home' : include 'includes/home.php';
 				break;
 			case $pg == 'graduacao' : include 'includes/graduacao.php';	 
+				break;
+			case $pg == 'biblioteca' : include 'includes/biblioteca.php';	 
 				break;	
+			case $pg == 'faleconosco' : include 'includes/faleconosco.php';	 
+				break;				
 			default: include 'includes/home.php';
 				break;
 		}
@@ -77,7 +81,6 @@
 				<div class="span4">					
 					<ul id="menu-footer">
 						<li><h5> Institucional </h5>  </li>
-						<li> Quem Somos   </li>
 						<li> Fale Conosco   </li>
 						<li> Transparência da Gestão   </li>
 						<li> Departamento Regional   </li>
