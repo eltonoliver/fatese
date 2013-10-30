@@ -177,7 +177,7 @@
 							               <img src="img/noticias.png" alt="">
 							              </div>
 							              <div class="tab-pane fade" id="profile">
-							                <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft </p>
+							               <img src="img/noticias.png" alt="">
 							              </div>
 							      
 							           
@@ -201,7 +201,7 @@
 							                <img src="img/facebook.png" alt="">
 							              </div>
 							              <div class="tab-pane fade" id="twitter">
-							                <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft </p>
+							                 <img src="img/facebook.png" alt="">
 							              </div>
 							      
 							           
