@@ -5,7 +5,7 @@
 
 			<ul class="breadcrumb">
 				<li>
-					<a href="?pg=home">Home</a> <span class="divider">/</span>
+					<a href="?pg=home">Início</a> <span class="divider">/</span>
 				</li>
 				<li>
 					<a href="?pg=faleconosco">Fale Conosco</a> <span class="divider">/</span>

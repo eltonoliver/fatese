@@ -48,7 +48,7 @@
 				<a href="http://www.ead.senac.br" target="blank"><li> Pós Graduação EAD </li></a>
 				<a href="?pg=biblioteca"> <li>Bíblioteca </li></a>
 				<a href="?pg=faleconosco"> <li>Fale Conosco </li></a>
-				<a href=""><li> Links </li></a>
+				<a href="?pg=links"><li> Links </li></a>
 			</ul>
 		</div>
 	</div>
@@ -68,6 +68,9 @@
 			include 'includes/biblioteca.php';
 		}elseif($pg == 'faleconosco'){
 			include 'includes/faleconosco.php';
+
+		}elseif($pg == 'links'){
+			include 'includes/links.php';
 
 		}else{
 			include 'includes/home.php';
