@@ -22,7 +22,7 @@
 	</div>
 	<div class="row">
 		<div class="span6">
-			<center> <a href="REGIMENTODAIBLIOTECAAFACULDADEDETNOLOGIASENAC.pdf">  <img alt="140x140" src="img/icone_regulamento_campanha.png" class="img-rounded" /> </center>
+			<center> <a href="img/REGIMENTODAIBLIOTECAAFACULDADEDETNOLOGIASENAC.pdf">  <img alt="140x140" src="img/icone_regulamento_campanha.png" class="img-rounded" /> </center>
 		</div>
 		<div class="span6">
 			<center>  <a href="http://senacam.bnweb.org/scripts/bnportal/bnportal.exe/index"><img alt="140x140" src="img/imagem1.jpg" class="img-rounded" /> </a> </center>
@@ -58,32 +58,14 @@
 		<div class="span8">
 			<dl>
 				<dt>
-					Description lists
+					<h4>Contato: </h4> 
 				</dt>
 				<dd>
-					A description list is perfect for defining terms.
-				</dd>
-				<dt>
-					Euismod
-				</dt>
+					(92) 3216 - 5750<br /><br>
+					(92) 3216 - 5751
+     				
+
 				<dd>
-					Vestibulum id ligula porta felis euismod semper eget lacinia odio sem nec elit.
-				</dd>
-				<dd>
-					Donec id elit non mi porta gravida at eget metus.
-				</dd>
-				<dt>
-					Malesuada porta
-				</dt>
-				<dd>
-					Etiam porta sem malesuada magna mollis euismod.
-				</dd>
-				<dt>
-					Felis euismod semper eget lacinia
-				</dt>
-				<dd>
-					Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-				</dd>
 			</dl>
 		</div>
 		<div class="span4">
