@@ -51,37 +51,13 @@
 			</p>
 			<p>
 				<!--MODAL -->
-					 <a id="modal-114743" href="#modal-container-114743" role="button" class="btn btn-warning" data-toggle="modal">Mande suas dúvidas</a>
-			
-					<div id="modal-container-114743" class="modal hide fade" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-						<div class="modal-header">
-							 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-							<h3 id="myModalLabel">
-								Formulário de Dúvidas
-							</h3>
-						</div>
-						<div class="modal-body">
-							<form>
-							 
-							  <label>Nome</label>
-							  <input type="text" placeholder="Digite seu nome.">
-						
-							  <label>E-mail</label>
-							  <input type="text" placeholder="Digite seu e-mail.">
-
-							  <label>Dúvida</label>
-							  <textarea rows="6" placeholder="Digite suas dúvidas"></textarea>
-							 
-							<br />
-							<button class="btn btn-primary" data-dismiss="modal" aria-hidden="true">Enviar</button>
-							</form>
-						</div>
-						<div class="modal-footer">
-							 <button class="btn" data-dismiss="modal" aria-hidden="true">Fechar</button>
-						</div>
-					</div>
+					 <a id="modal-114743" href="#modal-container-114743" role="button" class="btn btn-warning" >Matriz Curricular</a>					
 				<!--END MODAL -->
 			</p>
+
+
+
+			
 		</div>
 		<div class="span4">
 		</div>
@@ -99,37 +75,9 @@
 			</p>
 			<p>
 				<!--MODAL -->
-					 <a id="modal-114743" href="#modal-container-114743" role="button" class="btn btn-warning" data-toggle="modal">Mande suas dúvidas</a>
+					 <a id="modal-114743" href="#modal-container-114743" role="button" class="btn btn-warning"> Matriz Curricular </a>
 			
-					<div id="modal-container-114743" class="modal hide fade" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-						<div class="modal-header">
-							 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-							<h3 id="myModalLabel">
-								Formulário de Dúvidas
-							</h3>
-						</div>
-						<div class="modal-body">
-							<form>
-							 
-							  <label>Nome</label>
-							  <input type="text" placeholder="Digite seu nome.">
-						
-							  <label>E-mail</label>
-							  <input type="text" placeholder="Digite seu e-mail.">
-
-							  <label>Dúvida</label>
-							  <textarea rows="6" placeholder="Digite suas dúvidas"></textarea>
-							 
-							<br />
-							<button class="btn btn-primary" data-dismiss="modal" aria-hidden="true">Enviar</button>
-							</form>
-						</div>
-						<div class="modal-footer">
-							 <button class="btn" data-dismiss="modal" aria-hidden="true">Fechar</button>
-						</div>
-					</div>
-				<!--END MODAL -->
-			</p>
+	
 		</div>
 		<div class="span4">
 		</div>
